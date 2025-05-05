@@ -8,3 +8,5 @@ while i < tamanho_string:
     print(texto[i], i)
 
     i += 1
+
+    
